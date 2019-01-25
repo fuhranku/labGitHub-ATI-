@@ -1,3 +1,3 @@
 commit que resuelve un issue
 
-Resolves #2
+Resolves #1
